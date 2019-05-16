@@ -25,6 +25,7 @@ DEPENDS += "elfutils-native"
 
 KMETA = "kernel-meta"
 KCONF_BSP_AUDIT_LEVEL = "0"
+COMPATIBLE_MACHINE = "null"
 COMPATIBLE_MACHINE_x86-generic-64 = "x86-generic-64"
 COMPATIBLE_MACHINE_x86-generic = "x86-generic"
 COMPATIBLE_MACHINE_x86-atom-64 = "x86-atom-64"
